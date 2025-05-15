@@ -1,0 +1,6 @@
+DISPLAY_NAME= white
+MAIN=index.js
+VERSION=recommended
+MEMORY=800
+AUTORESTART=true
+DESCRIPTION= -

@@ -1,0 +1,8 @@
+{
+    "accessToken":"TOKEN MP",  /* SEU TOKEN DO MERCADO PAGO - APGAR ESSA "COMENTARIO" */
+    "token": "0000000000000000000000000000000000000000",  /* TOKEN DISCORD*/
+    "prefix": ".",
+    "canalvoz": "", //seu canal de voz
+    "owner": "" //coloque o seu id do discord
+
+}
